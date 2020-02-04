@@ -11,3 +11,5 @@ void PointersToFunctions();
 
 //A member function that is defined inside the class is implicitly treated 
 //as an inline function. 
+
+void UseModules();

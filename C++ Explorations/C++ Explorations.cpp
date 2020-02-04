@@ -12,4 +12,5 @@ int main(int argc, char* argv[])
 	foo.ShowBinary(argc, argv); //Passing on the arguments.
 
 	PointersToFunctions();
+	UseModules();
 }
